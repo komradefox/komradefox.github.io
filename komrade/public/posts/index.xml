@@ -6,15 +6,14 @@
     <description>Recent content in Posts on komrade.xyz</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 Jan 2024 16:41:13 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jan 2024 17:10:07 -0500</lastBuildDate>
     <atom:link href="https://komradefox.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Hi</title>
+      <title>hi</title>
       <link>https://komradefox.github.io/posts/hi/</link>
-      <pubDate>Mon, 01 Jan 2024 16:41:13 -0500</pubDate>
+      <pubDate>Mon, 01 Jan 2024 17:10:07 -0500</pubDate>
       <guid>https://komradefox.github.io/posts/hi/</guid>
-      <description>hello
-everything is hard</description>
+      <description>everything is hard</description>
     </item>
   </channel>
 </rss>

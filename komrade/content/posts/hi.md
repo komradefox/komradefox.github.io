@@ -1,9 +1,7 @@
 +++
-title = 'Hi'
-date = 2024-01-01T16:41:13-05:00
+title = 'hi'
+date = 2024-01-01T17:10:07-05:00
 draft = false
 +++
-
-hello
 
 everything is hard
