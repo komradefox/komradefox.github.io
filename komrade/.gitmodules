@@ -1,0 +1,3 @@
+[submodule "PaperMod"]
+	path = "themes/PaperMod"
+	url = git://github.com/komradefox/komradefox.github.io.git
