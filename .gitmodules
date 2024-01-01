@@ -1,0 +1,3 @@
+[submodule "komrade/themes/mini"]
+	path = komrade/themes/mini
+	url = https://github.com/nodejh/hugo-theme-mini.git
