@@ -1,0 +1,5 @@
+baseURL = 'https://komradefox.github.io/'
+languageCode = 'en-us'
+title = 'komrade.xyz'
+paginate = '5'
+theme = 'PaperMod'
